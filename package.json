@@ -1,0 +1,12 @@
+{
+  "name": "petstore-nodejs-karate",
+  "version": "1.0.0",
+  "description": "Swagger PetStore API testing framework, written in NodeJS, using the Karate Automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
